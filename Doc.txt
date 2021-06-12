@@ -1,0 +1,28 @@
+ONE MAILS Version 1.4
+
+TRES IMPORTANT POUR UNE UTILISATION FACILE DU LOGICIEL.
+
+INFORMATION D'UTILISATION ET DE COMPREHENSION DU FONCTIONNEMENT DU LOGICIEL ET NOUVEAUTE SI MISE A JOUR
+
+Nous tenons avant tous a vous remerciez d'avoir choisi notre logiciel One Mail qui a pour but de vous permettre d'envoyer des emails de votre Gmail depuis le logiciel.
+
+* Pour toutes premire Utilisation du logiciel avec votre compte Gmail veuillez vérifier si les options Unless sécure de votre compte Gmail sont activées permettant ainsi au logiciel de fonctionner correctement avec votre compte et ainsi envoyer vos emails sans problme ni erreur.
+
+* Si l'option Unless sécure n'est pas activée  chaque tentative d'envoie d'email depuis le logiciel sera bloqué par google. (car c'est une utilisation exterieur de compte gmail et non pas sur le site gmail)
+
+* Pour Activer cette option apres connexion sur votre compte depuis le logiciel allez dans les options et cliquer sur activer option Unless sécure qui va vour redirigez sur votre navigateur sur votre compte gmail sur la page qu'il faut pour activer cette option.
+
+* Le logiciel a besoin d'un acces  internet ou connexion internet pour fonctionner.
+
+* L'envoie de certaine pieces jointe sont rejeté par google comme les fichiers .exe et autres et il est de même si vous faite un envoie d'un fichier .exe depuis un compte microsoft cela n'est pas un problme du logiciel mais de google qui gre gmail. Le logiciel envoie touts types de pieces jointes et sans problme
+
+* Apres clic sur Envoi le logiciel ne bug pas est entrain de traiter l'envoie de l'email !
+
+*** NOUVEAUTE :::
+* Ajout de possibilité de sauvegarder comme contact les adresse mail utilisé
+				* Ajout de l'Option de déconexion de l'utilisateur connecté sur l'onglet FENÈTRE
+				* Correction de bug du code et de la fluidité du logiciel
+				* Ajout de cet onglet de présentation pour facilté les utilisateur a comprendre le fonctionnement du logiciel
+
+				
+Copyright Sept. 2018, S MARONE ©

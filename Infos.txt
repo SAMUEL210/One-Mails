@@ -1,0 +1,6 @@
+Application a creer comm sur l'image avec  ::
+					Pas de choix :::: Champ de saisie destinataire(s) (separer mail avec ';' ou 'space')
+					type d'addresse mail detecter automayiquement
+
+Au debut demande id et mot de pass mail pour connection::
+						possibilite de resterconnecter ou de sauvegarder donner pour eviter resaisie
